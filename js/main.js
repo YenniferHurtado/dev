@@ -103,6 +103,7 @@
 
 	/*--/ Testimonials owl /--*/
 	$('#testimonial-mf').owlCarousel({
+		goToFirst: true,
 		margin: 20,
 		autoplay: true,
 		autoplayTimeout: 4000,
