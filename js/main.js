@@ -105,9 +105,9 @@
 	$('#testimonial-mf').owlCarousel({
 		goToFirst: true,
 		margin: 20,
-		autoplay: true,
-		autoplayTimeout: 4000,
-		autoplayHoverPause: true,
+		// autoplay: true,
+		// autoplayTimeout: 4000,
+		// autoplayHoverPause: true,
 		responsive: {
 			0: {
 				items: 1,
