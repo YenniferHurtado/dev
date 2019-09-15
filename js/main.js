@@ -103,14 +103,17 @@
 
 	/*--/ Testimonials owl /--*/
 	$('#testimonial-mf').owlCarousel({
+		slideSpeeds: 200,
+		paginationSpeed: 800,
 		goToFirst: true,
+		goToFirstSpeed: 1000,
 		margin: 20,
-		autoplay: true,
+		autoplay: false,
 		autoplayTimeout: 4000,
 		autoplayHoverPause: true,
 		responsive: {
 			0: {
-				items: 1,
+				items: 4,
 			}
 		}
 	});
