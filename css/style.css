@@ -1,5 +1,5 @@
 /*
-  Theme Name: DevFolio
+  Ttestimonialeme Name: DevFolio
   Theme URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
   Author: BootstrapMade.com
   License: https://bootstrapmade.com/license/
@@ -285,6 +285,7 @@ background-color: #847179;
   display: block;
   transition: all 0.6s ease-in-out;
   cursor: pointer;
+  animation: cambio 2s infinite alternate!important;
 }
 
 .owl-theme .owl-dots .owl-dot:hover span {
