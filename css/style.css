@@ -29,7 +29,7 @@ a {
 }
 
 a:hover {
-  color: #F08080;
+  color: #FFDBDF;
   text-decoration: none;
   transition: all 0.5s ease-in-out;
 }
@@ -39,7 +39,7 @@ a:hover {
 }
 
 .color-a {
-  color:#F08080;
+  color:#FFDBDF;
 }
 
 .color-d {
@@ -180,7 +180,7 @@ background-color: #847179;
   content: '';
   position: absolute;
   height: 3px;
-  background-color: #5CA773;
+  background-color: #ffbf52;
   width: 100px;
   bottom: -12px;
 }
@@ -217,17 +217,19 @@ background-color: #847179;
   border-radius: 50%;
   line-height: 1.4;
   margin: 0 15px 0 0;
-  box-shadow: 0 0 0 3px #5CA773;
+  box-shadow: 0 0 0 3px #ffbf52;
   transition: all 500ms ease;
 }
 
 .socials .ico-circle:hover {
-  background-color: #5CA773;
+  background-color: #ffbf52;
   color: #fff;
   box-shadow: 0 0 0 3px #cde1f8;
   transition: all 500ms ease;
 }
 
+FFDBDF
+FFDBDF
 /*------/ Ul resect /------*/
 
 .ul-resect,
@@ -247,7 +249,7 @@ background-color: #847179;
 }
 
 .list-ico span {
-  color: #5CA773;
+  color: #ffbf52;
   margin-right: 10px;
 }
 
@@ -261,7 +263,7 @@ background-color: #847179;
   line-height: 1.55;
   margin: 0 auto;
   text-align: center;
-  box-shadow: 0 0 0 10px #5CA773;
+  box-shadow: 0 0 0 10px #ffbf52;
   display: block;
 }
 
@@ -308,7 +310,7 @@ background-color: #847179;
   position: fixed;
   width: 42px;
   height: 42px;
-  background-color: #5CA773;
+  background-color: #ffbf52;
   opacity: .7;
   font-size: 1.6rem;
   line-height: 1.5;
@@ -327,7 +329,7 @@ background-color: #847179;
 .back-to-top {
   position: fixed;
   display: none;
-  background: #5CA773;
+  background: #ffbf52;
   color: #fff;
   width: 44px;
   height: 44px;
@@ -365,7 +367,7 @@ background-color: #847179;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
   border: 6px solid #f2f2f2;
-  border-top: 6px solid #5CA773;
+  border-top: 6px solid #ffbf52;
   border-radius: 50%;
   width: 60px;
   height: 60px;
@@ -482,26 +484,26 @@ background-color: #847179;
 }
 
 .navbar-b.navbar-reduce .nav-link {
-  color: #F08080;
+  color:black;
 }
 
 .navbar-b.navbar-reduce .nav-link:before {
-  background-color: #5CA773;
+  background-color: #ffbf52;
 }
 
 .navbar-b.navbar-reduce .nav-link:hover {
-  color: #5CA773;
+  color: #ffbf52;
 }
 
 .navbar-b.navbar-reduce .show > .nav-link,
 .navbar-b.navbar-reduce .active > .nav-link,
 .navbar-b.navbar-reduce .nav-link.show,
 .navbar-b.navbar-reduce .nav-link.active {
-  color: #5CA773;
+  color: #ffbf52;
 }
 
 .navbar-b.navbar-reduce .navbar-brand {
-  color: #5CA773;
+  color: #ffbf52;
 }
 
 .navbar-b.navbar-reduce .navbar-toggler span {
@@ -539,7 +541,7 @@ background-color: #847179;
 }
 
 .navbar-b .dropdown-menu .dropdown-item.active {
-  background-color: #5CA773;
+  background-color: #ffbf52;
 }
 
 /*--/ Hamburger Navbar /--*/
@@ -653,7 +655,7 @@ background-color: #847179;
 
 .intro-single .breadcrumb {
   background-color: transparent;
-  color: #5CA773;
+  color: #ffbf52;
 }
 
 .intro-single .breadcrumb .breadcrumb-item:before {
@@ -698,7 +700,7 @@ background-color: #847179;
 
 .skill-mf .progress .progress-bar {
   height: .7rem;
-  background-color: #5CA773;
+  background-color: #ffbf52;
 }
 
 /*======================================
@@ -715,7 +717,7 @@ background-color: #847179;
 .service-box:hover .ico-circle {
   transition: all 500ms ease;
   color: #fff;
-  background-color: #F08080;
+  background-color: #FFDBDF;
   box-shadow: 0 0 0 10px #cde1f8;
 }
 
@@ -771,7 +773,7 @@ background-color: #847179;
 
 .demo {
   padding: 10px;
-  color: #F08080;
+  color: #FFDBDF;
   text-align: center;
   font-size: 12px;
   font-weight: bold;
@@ -809,17 +811,17 @@ background-color: #847179;
 }
 
 .work-content .w-more .w-ctegory {
-  color: #F08080;
+  color: #FFDBDF;
 }
 
 .work-content .w-like {
   font-size: 2.5rem;
-  color: #F08080;
+  color: #FFDBDF;
   float: right;
 }
 
 .work-content .w-like a {
-  color: #F08080;
+  color: #FFDBDF;
 }
 
 .work-content .w-like .num-like {
@@ -868,7 +870,7 @@ background-color: #847179;
 
 .testimonial-box .comit {
   font-size: 2rem;
-  color: #F08080;
+  color: #FFDBDF;
   background-color: #fff;
   width: 52px;
   height: 52px;
@@ -901,7 +903,7 @@ background-color: #847179;
   color: #fff;
   padding: 0 15px 5px;
   overflow: hidden;
-  background-color: #F08080;
+  background-color: #FFDBDF;
   border-radius: 4px;
 }
 
@@ -976,7 +978,7 @@ background-color: #847179;
 }
 
 .blog-wrapper .post-meta ul {
-  border-left: 4px solid #F08080;
+  border-left: 4px solid #FFDBDF;
   margin-top: 1rem;
 }
 
@@ -986,7 +988,7 @@ background-color: #847179;
 }
 
 .blog-wrapper .post-meta ul a {
-  color: #F08080;
+  color: #FFDBDF;
 }
 
 .blog-wrapper .post-meta ul span {
@@ -994,7 +996,7 @@ background-color: #847179;
 }
 
 .blog-wrapper .blockquote {
-  border-left: 4px solid #F08080;
+  border-left: 4px solid #FFDBDF;
   padding: 18px;
   font-style: italic;
 }
@@ -1026,7 +1028,7 @@ background-color: #847179;
 }
 
 .box-comments .list-comments a {
-  color: #F08080;
+  color: #FFDBDF;
 }
 
 .box-comments .list-comments span {
@@ -1043,7 +1045,7 @@ background-color: #847179;
 .widget-sidebar .sidebar-title {
   font-size: 1.6rem;
   font-weight: 600;
-  border-left: 5px solid #F08080;
+  border-left: 5px solid #FFDBDF;
   padding-left: 15px;
   text-transform: uppercase;
   margin-bottom: 1.5rem;
@@ -1060,7 +1062,7 @@ background-color: #847179;
   width: 10px;
   height: 1px;
   left: 0;
-  background-color: #F08080;
+  background-color: #FFDBDF;
   top: 20px;
 }
 
@@ -1071,8 +1073,8 @@ background-color: #847179;
 }
 
 .sidebar-search .btn-search {
-  background-color: #F08080;
-  border-color: #F08080;
+  background-color: #FFDBDF;
+  border-color: #FFDBDF;
   border-radius: 0;
   padding-left: 20px;
   padding-right: 20px;
@@ -1080,7 +1082,7 @@ background-color: #847179;
 
 .widget-tags ul li {
   display: inline-block;
-  background-color: #F08080;
+  background-color: #FFDBDF;
   padding: .2rem .6rem;
   margin-bottom: .5rem;
   border-radius: 15px;
@@ -1129,8 +1131,8 @@ footer .credits a {
 ======================================*/
 
 #sendmessage {
-  color: #F08080;
-  border: 1px solid #F08080;
+  color: #FFDBDF;
+  border: 1px solid #FFDBDF;
   display: none;
   text-align: center;
   padding: 15px;
@@ -1187,13 +1189,13 @@ footer .credits a {
 }
 
 .button:hover {
-  background-color: #F08080;
+  background-color: #FFDBDF;
   color: #fff;
   transition: all 500ms ease;
 }
 
 .button-a {
-  background-color: #5CA773;
+  background-color: #ffbf52;
   color: #fff;
   border-color: #cde1f8;
 }
